@@ -1,473 +1,59 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-蓝色恶魔| BlueArchive | |
-https://www.youtube.com/watch?v=QA1ZLpkcaZ8
+Lofi电台 | 音乐 | https://yt3.ggpht.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=jfKfPfyJRdk
 
-24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
-https://www.youtube.com/c/24OnLive/live
+House Music | 音乐 | https://yt3.ggpht.com/FdlHcCCzSKmvuLJOVga4mnUn2wfY1NBqSh4oEBp9FQdDXi0N-pLMSkSvtpsCaAoDpgMowHWyL-A=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=q3pnN52BSHY
 
-Kairali News | Malayalam | https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115 |
-https://www.youtube.com/user/Felizemediaplus/live
+Summer Mix | 音乐 | https://yt3.ggpht.com/ytc/AIf8zZRp2uUyiXp-3D9J0mGnJ7FAeLsCjc1krMdQ6ySSUw=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=w-dmiF0KglU
 
-Asianet News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/c/c4/Asianet_News_Logo.png |
-https://www.youtube.com/user/asianetnews/live
+Hits Radio 1 Live Pop Radio | 音乐 | https://i.imgur.com/rVWYpIT.png |
+https://www.youtube.com/watch?v=HQtFR3mhzOY
 
-Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |
-https://www.youtube.com/user/TVMathrubhumi/live
+The Good Life Radio | 音乐 | https://i.imgur.com/rVWYpIT.png |
+https://www.youtube.com/watch?v=36YnV9STBqc
 
-Media One News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png |
-https://www.youtube.com/user/MediaoneTVLive/live
+Chill Out Music Mixe | 音乐 | https://i.imgur.com/rVWYpIT.png |
+https://www.youtube.com/watch?v=m52ynxt1mOo
 
-Kerala Vision News | Malayalam | https://i.imgur.com/RwYRTX0.jpg |
-https://www.youtube.com/@keralavisionnews24x7/live
+Chillout Lounge | 音乐 | https://i.imgur.com/rVWYpIT.png |
+https://www.youtube.com/watch?v=9UMxZofMNbA
 
-Manorama News | Malayalam | https://play-lh.googleusercontent.com/k0A88RrzsPqX1D75am5_bOJ3M2Y0R0fXi7gu4BfgmS2GkuUNvFnSLMmCaLBK0BhQ9Es |
-https://www.youtube.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ/live
+放松音乐-A | 音乐 | https://yt3.ggpht.com/dci6F84ANu2fyGC7mkvQ0etyOIN_Sg9D77p3Qy3SjENyk2N-QQaQrQ4JVwLzlAaDQEobPoN-=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=VOtB9qmgM-M
 
-News 18 Kerala | Malayalam | https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png |
-https://www.youtube.com/channel/UC-mMi78WJST4N5o8_i1FoXw/live
+放松音乐-B | 音乐 | https://yt3.ggpht.com/dci6F84ANu2fyGC7mkvQ0etyOIN_Sg9D77p3Qy3SjENyk2N-QQaQrQ4JVwLzlAaDQEobPoN-=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=gImTLag9uag
 
-Polimer News | Tamil | http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png | 636
-https://www.youtube.com/channel/UC8Z-VjXBtDJTvq6aqkIskPg/live
+放松音乐-C | 音乐 | https://yt3.ggpht.com/dci6F84ANu2fyGC7mkvQ0etyOIN_Sg9D77p3Qy3SjENyk2N-QQaQrQ4JVwLzlAaDQEobPoN-=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=9pYicZqGRYw
 
-News7 Tamil | Tamil | http://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_797/img_logo_news_7_tamil-2.png | 673
-https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
+放松音乐-D | 音乐 | https://yt3.ggpht.com/dci6F84ANu2fyGC7mkvQ0etyOIN_Sg9D77p3Qy3SjENyk2N-QQaQrQ4JVwLzlAaDQEobPoN-=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=2X5sdxwnovk
 
-Thanthi TV | Tamil | http://www.thanthitv.com/Images/TTV-800x800.png | 830
-https://www.youtube.com/c/ThanthitvNews/live
+TVBS News-台湾 | 新闻 | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-New18 TamilNadu | Tamil | http://7starcloud.in/NB.png | ts58
-https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
+中天新闻-台湾 | 新闻 | https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-Puthiya Thalaimurai | Tamil | http://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_793/LOGO/5Jz56JGv.png | 677
-https://www.youtube.com/c/PuthiyaThalaimuraiTV/live
+台視新聞 | 新闻 | https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=xL0ch83RAK8
 
-GNN | Urdu | |
-https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live
+三立新闻 | 新闻 | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+
+甄嬛传 | 电视剧 | https://yt3.ggpht.com/5oYw3Ie3p9XEtRrUNCFRJF2XNdvx_mm5IHpJ_RSvL8Ap602J60Xzm-MmLjON6jzWsRYvS36uijk=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=-M653lYbQgA
+
+琅琊榜 | 电视剧 | https://yt3.ggpht.com/ytc/AIf8zZTeqTCZc7rHU_n9XjB7Wrjw0DNviI1GFD0MqugaXQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=CYK5l0e2MlA
 
 ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
 https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
-
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
-
-Euronews Albania | Albania | https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png |
-https://www.youtube.com/channel/UChR-A__NS_C5kHDWj3PeAhw/live
-
-Insomniac | Entertainment | |
-https://www.youtube.com/channel/UCr45VhwCBYwMfdN-gz7W_OA/live
-
-Tribunnews Live | INDONESIA | https://i.ytimg.com/vi/Bz_lsdTuNl0/hq720_2.jpg |
-https://www.youtube.com/channel/UCmxAIW7RDDC88EPk4ry16Kg/live
-
-Asianet Suvarna News | Kannada | https://upload.wikimedia.org/wikipedia/commons/4/4b/Suvarna_News_New_Logo.jpg |
-https://www.youtube.com/channel/UCjElJyiXmQXnWmceQ1JyKrA/live
-
-TV5 Kannada | Kannada | http://www.tv5kannada.com/images/logo.png |
-https://www.youtube.com/channel/UCpzsmNuUEmod64DGgBDPO-Q/live
-
-TV9 Kannada | Kannada | https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png |
-https://www.youtube.com/channel/UC8dnBi4WUErqYQHZ4PfsLTg/live
-
-NewsFirst Kannada | Kannada | |
-https://www.youtube.com/channel/UCFRlIV1mX-traJb5fd7S3nw/live
-
-TV9 Gujarati | Gujarati | https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Mvz3_9O4p4s
-
-ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC3C6_1ETXfE807LltDbKYxg/live
-
-Roland Martin Unfiltered | News | |
-https://www.youtube.com/user/rolandsmartin/live
-
-Sky News | News | |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-Reporter | Malayalam | https://yt3.ggpht.com/ytc/AAUvwngYsY0-vY4E8BQ1SvfkhzJKhSQGazUVCU6Li8saGw=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@reporterlive/live
-
-Best Shuffle Dance Music 2021 | Entertainment | |
-https://www.youtube.com/watch?v=qWf-FPFmVw0
-
-NDTV Profit | News | |
-https://www.youtube.com/watch?v=GPKXF3mzAlU
-
-NDTV 24x7 | News | |
-https://www.youtube.com/watch?v=WB-y7_ymPJ4
-
-NDTV India | News | |
-https://www.youtube.com/watch?v=MN8p-Vrn6G0
-
-IndiaTV | News | |
-https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
-
-Aaj Tak | News | |
-https://www.youtube.com/watch?v=Nq2wYlWFucg
-
-Ibiza Summer Mix 2021 | Music | |
-https://www.youtube.com/watch?v=GnYNHbq24H0
-
-Онлайн трансляция телеканала МУЗ-ТВ | Music | |
-https://www.youtube.com/watch?v=v3yB_oSH10c
-
-Kral TV | Music | |
-https://www.youtube.com/watch?v=88tf0H1ycDU
-
-Kral Pop TV | Music | |
-https://www.youtube.com/watch?v=dEHMR7Qpthw
-
-QT Relax Music | Music | |
-https://www.youtube.com/watch?v=da8MqCnF1mQ
-
-4K Nature 24/7- LoungeV Films | Music | |
-https://www.youtube.com/watch?v=2CD9aEjFZwU
-
-Rodos Palladium Beach Live | Livecam | |
-https://www.youtube.com/watch?v=drhmo4XSVYA
-
-OE24 TV | News | |
-https://www.youtube.com/watch?v=Pzuv6pRsur4
-
-MAD TV Greece | Greece | |
-https://www.youtube.com/c/madtvgreece/live
-
-The World Live- earthTV | Entertainment | |
-https://www.youtube.com/watch?v=BW6yxWvqEd0
-
-Habertürk TV | News | |
-https://www.youtube.com/watch?v=SqHIO2zhxbA
-
-Alternative Radio | Radio | http://3.bp.blogspot.com/-4CDRDYQPlZo/UMsFyQQCy0I/AAAAAAAANLc/-8LXzSkTdsA/s1600/Alternative-Music-Logo-PNG.png |
-https://www.youtube.com/watch?v=5X18D-EbjUc
-
-Best Suffle Dance | Radio | http://vignette4.wikia.nocookie.net/justdance/images/0/0c/Logo-jdtcm1924788.png |
-https://www.youtube.com/watch?v=qWf-FPFmVw0
-
-Meditation Music | Radio | https://freepngimg.com/thumb/meditation/7-2-meditation-transparent.png |
-https://www.youtube.com/watch?v=Pnjf930F4r4
-
-Oldies Mix | Radio | https://weloveradio.ch/wp-content/uploads/2019/05/radio_oldies_logo_640x640.png |
-https://www.youtube.com/watch?v=TpyMQGeFFpo
-
-Radio 90s Mix | Radio | https://www.pinclipart.com/picdir/middle/98-986111_17-mar-logos-de-los-90s-clipart.png |
-https://www.youtube.com/watch?v=CyPqFllXb9s
-
-Rock Radio | Radio | http://1.bp.blogspot.com/-tTku4g-q6iE/T7qzfDLuaXI/AAAAAAAAFsI/bxJickyvn6w/s1600/Radio+Rock+logo.png |
-https://www.youtube.com/watch?v=L5vWEHSEsZo
-
-XDeep Club-Dua Lipa, Coldplay, Martin Garrix & Kygo, The Chainsmokers Style - ... | Music | |
-https://www.youtube.com/watch?v=YsBe9BFIjBs
-
-XDeep Club-Ed Sheeran, Kygo, Dua Lipa, Avicii, Martin Garrix, The Chainsmokers... | Music | |
-https://www.youtube.com/watch?v=NkV2tCIIZuE
-
-Chillout Lounge - Calm & Relaxing Background Music | Music | |
-https://www.youtube.com/watch?v=9UMxZofMNbA
-
-PJ Masks | Kids | |
-https://www.youtube.com/watch?v=6E-BS0wpPQk
-
-My Little Pony | Kids | |
-https://www.youtube.com/watch?v=6Vh5dg6eCnY
-
-Cocomelon-Nursery Rhymes | Kids | |
-https://www.youtube.com/watch?v=Qt3oQSSZv-o
-
-Ben and Holly's Little Kingdom | Kids | |
-https://www.youtube.com/watch?v=q1Fsyb9Kj7E
-
-WB Kids | Kids | |
-https://www.youtube.com/watch?v=braVWtZNnsc
-
-Disney Junior- All of Minnie's Bow-Toons! | Kids | |
-https://www.youtube.com/watch?v=h99SrJB7F5M
-
-ABS-CBN Entertainment | Philippines | |
-https://www.youtube.com/watch?v=kW6Iz7WcV2g
-
-ABS-CBN Entertainment- Kapamilya Online Live | Philippines | |
-https://www.youtube.com/c/abscbnentertainment/live
-
-DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
-
-Sky News | International News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
-
-GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
-
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
-
-TVBS News | Taiwan News | |
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-Taiwan TTV News | Taiwan News | |
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-三立新闻 | Taiwan News | |
-https://www.youtube.com/watch?v=FoBfXvlOR6I
-
-Taiwan EBC | Taiwan News | |
-https://www.youtube.com/watch?v=R2iMq5LKXco
-
-Taiwan EBC Financial | Taiwan News | |
-https://www.youtube.com/watch?v=ABn_ccXn_jc
-
-CTITV Taiwan News | Taiwan News | |
-https://www.youtube.com/watch?v=lu_BJKxqGnk
-
-Kitten Academy Livestream | Entertainment | |
-https://www.youtube.com/channel/UC83RKJs4eKHVE9v0YUyqzgg/live
-
-Bernama TV | Malaysia | |
-https://www.youtube.com/watch?v=QCOUDsARLVQ
-
-WB Kids live | Kids | |
-https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
-
-DC Kids live | Kids | |
-https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live
-
-Wion | English | |
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
-
-Molek FM live | Radio Stations | |
-https://www.youtube.com/channel/UCkmwGg4oN_Ik4QBx8SqCYJA/live
-
-CGTN News Live | News | |
-https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
-
-RT | News | |
-https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
-
-Times Now | English | |
-https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
-
-BBC Persian | Persian | |
-https://www.youtube.com/channel/UCHZk9MrT3DGWmVqdsj5y0EA/live
-
-Euronews | English | |
-https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
-
-Rangin Kaman | Persian | |
-https://www.youtube.com/watch?v=kekJOJpHuIQ
-
-SBT SC | Entertainment | |
-https://www.youtube.com/channel/UCEzVIIPtAIfsRCEHwn4AOzw/live
-
-A State Of Trance Radio | Entertainment | |
-https://www.youtube.com/c/astateoftrance/live
-
-Geo News Live | Pakistan | |
-https://www.youtube.com/c/geonews/live
-
-ARY News Live | Pakistan | |
-https://www.youtube.com/c/ArynewsTvofficial/live
-
-HSN | English | |
-https://www.youtube.com/watch?v=1ph8qQnjXts
-
-HSN2 | English | |
-https://www.youtube.com/watch?v=q-BvtDrTnxc
-
-Shri bhucho sahib live | punjabi | |
-https://www.youtube.com/watch?v=FSVtfGLzf1Q
-
-Al Jazeera | English | |
-https://www.youtube.com/c/aljazeeraenglish/live
-
-Hindi hits LOve | Hindi | https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg |
-https://www.youtube.com/channel/UCf5kg_rzyRBn0jbpVCmBBcw/live
-
-Taiwan Taipei | Taiwan landscape  | |
-https://www.youtube.com/watch?v=z_fY1pj1VBw
-
-Taiwan Taipei Bishan Temple | Taiwan landscape  | |
-https://www.youtube.com/watch?v=uvwfYzwY8tg
-
-Taiwan Kaohsiung Shoushan Lovers' Viewing Platform | Taiwan landscape  | |
-https://www.youtube.com/watch?v=C03Itx8iSC0
-
-Taichung Wang Gao Liao | Taiwan landscape  | |
-https://www.youtube.com/watch?v=lhXXhDyjFtI
-
-Taichung Gaomei Wetland 4K Live Camera | Taiwan landscape  | |
-https://www.youtube.com/watch?v=fjhg3gAnMFg
-
-Alishan Eryanping Trail | Taiwan landscape  | |
-https://www.youtube.com/watch?v=j2L_559nCjc
-
-Alishan Taiping Suspension Bridge | Taiwan landscape  | |
-https://www.youtube.com/watch?v=dY2cRNr5Buw
-
-Alishan Fenqihu | Taiwan landscape  | |
-https://www.youtube.com/watch?v=jXcy8dmGYqg&list=PLOFDpgHtb3GUt0ZOefyYs0sThvJo8Xntu&index=69
-
-Tainan | Taiwan landscape  | |
-https://www.youtube.com/watch?v=TxeeTN7kSzA
-
-Taitung Shanyuan Bay Live Camera | Taiwan landscape  | |
-https://www.youtube.com/watch?v=VqS_Y8ZCj6M
-
-Taitung Chihshang Live Camera | Taiwan landscape  | |
-https://www.youtube.com/watch?v=WA7GEXVGAP0
-
-Taitung Duoliang Station Live Camera | Taiwan landscape  | |
-https://www.youtube.com/watch?v=UCG1aXVO8H8
-
-Sanxiantai | Taiwan landscape  | |
-https://www.youtube.com/watch?v=dQ7Sd6PGLdA
-
-Shihmen Reservoir Live Cam | Taiwan landscape  | |
-https://www.youtube.com/watch?v=1OTZ9rjFv78
-
-PTS | Taiwan | |
-https://www.youtube.com/watch?v=6KlRR_DGhmI
-
-NASA Live: Official Stream of NASA TV | Documentary | |
-https://www.youtube.com/watch?v=21X5lGlDOfg
-
-NASA Live: Official Stream of NASA TV's Media Channel | Documentary | |
-https://www.youtube.com/@NASA/live
-
-Channels Television Live Stream | English | |
-https://www.youtube.com/watch?v=dfB0qmJo1eM
-
-Live - Sport Camera - Deerfield Beach, Florida USA | Livecam | |
-https://www.youtube.com/watch?v=Lic2fD18wnw
-
-Michael Weiss Street Brasov - Pilvax Restaurant & Wine Bar | Livecam | |
-https://www.youtube.com/watch?v=G05wmWFDtSo
-
-Brasov old-town view from Aro Palace Brasov | Livecam | |
-https://www.youtube.com/watch?v=7Xnc0Pdp_Ao
-
-Castelul Bran - Dracula's Castle - Casa din Bran | Livecam | |
-https://www.youtube.com/watch?v=8hgQsI1CfsY
-
-Sanctuarul de ursi Libearty Zarnesti | Livecam | |
-https://www.youtube.com/watch?v=V3aTpIxIGDg
-
-ArcadiaTV World (Australia) | Documentary | |
-https://www.youtube.com/watch?v=8k_PgfHS4Yk
-
-Vaslui - Live ( Vaslui, RO ) - Oferit de Teleplus | Livecam | |
-https://www.youtube.com/watch?v=4igmjwa7ONE
-
-CABANA BALEA LAC - P1428 | Livecam | |
-https://www.youtube.com/watch?v=87D-GzRNOq4
-
-Radio Star FM Romania https://radiostarfmromania.com | Radio | |
-https://www.youtube.com/watch?v=n2bM12UtQsE
-
-Radio Rock Classics Mix Best Rock Ballads of 70s 80s 90s • Rock Music Hits | Music | |
-https://www.youtube.com/watch?v=Va-h6WZPUzQ
-
-LIVE Mix Non-Stop Manele mix, Percussion, Moombahton | Music | |
-https://www.youtube.com/watch?v=9TKJfkzkj6E
-
-Tutte le news di Sky TG24 | Italy | |
-https://www.youtube.com/watch?v=HVB_Wx5T16g
-
-QVC Italia In Diretta | Italy | |
-https://www.youtube.com/watch?v=r3X4N2aS9fc
-
-Cesky rozhlas Radiozurnal Sport - Pohled do studia | Czech Radio | |
-https://www.youtube.com/watch?v=PrJe9MYgK0s
-
-Cesky rozhlas Hradec Kralove - Pohled na hosta | Czech Radio | |
-https://www.youtube.com/watch?v=Z2PUv_QcazM
-
-Cesky rozhlas Hradec Kralove - Pohled na moderatory | Czech Radio | |
-https://www.youtube.com/watch?v=xBmSAtVk5W0
-
-Cesky rozhlas Radio Praha - Pohled do studia 2 | Czech Radio | |
-https://www.youtube.com/watch?v=Gm_yjo3GYkU
-
-Wave - pohled do studia | Czech Radio | |
-https://www.youtube.com/watch?v=r593jSBcAdA
-
-Český rozhlas Radiožurnál - Pohled do režie | Czech Radio | |
-https://www.youtube.com/watch?v=1Wv04H3oQ4k
-
-LIVE 24/7 Rolling Cam Venice - Live Cam in Venice Italy | Livecam | |
-https://www.youtube.com/watch?v=ph1vpnYIxJk
-
-Deer Pantry "Trough View" | Livecam | |
-https://www.youtube.com/watch?v=_VpoLPsBZgk
-
-Cab ride from some of the most scenic railways in the world | Documentary | |
-https://www.youtube.com/watch?v=lx5vVGxusnc
-
-Proctor Gallagher Institute 24/7 Live Stream | Documentary | |
-https://www.youtube.com/watch?v=M_VVmIear3w
-
-Peppa Pig Tales LIVE 24/7 Official Stream EN | Kids | |
-https://www.youtube.com/watch?v=xsDTMAgpS4A
-
-Journey to the West - Classic Chinese Cartoons for Kids CN | Kids | |
-https://www.youtube.com/watch?v=Sm6Yzcl-JMY
-
-Winnipeg's Retro Weather Channel | Weather | https://yt3.ggpht.com/DF-Z0-Ga4j6o3gtzSInOL5WkwmiklrC3LEYMSFgavqzPW-67aF8HryUR1dWZZ2AX41X6ThAqtQY=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@weatherchannelwinnipeg/live
-
-Ski Panorama | webcam | |
-https://www.youtube.com/@feratel_yourwindowtotheworld/live
-
-Summer Mix 2023  | Music | https://i.imgur.com/S3Ob883.png |
-https://www.youtube.com/watch?v=9ls0Eh79Olc
-
-New Year Music Mix 2023 | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=8rl1OR7r8c0
-
-Hits Radio 1 Live Pop Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=HQtFR3mhzOY
-
-The Good Life Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Deep House Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=19hKXI1ENrY
-
-Chill Out Music Mixe | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=m52ynxt1mOo
-
-Chillout Lounge | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=9UMxZofMNbA
-
-ABC News Australia | News | https://i.imgur.com/6Vw9jUF.png |
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
-Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png |
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-SKY NEWS | UK | https://i.imgur.com/h9vCGRv.png |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-Dubuque County - Falcon Camera Ledge View | Camera | |
-https://www.youtube.com/watch?v=fozF32QH4AQ
-
-Dubuque County Seippel Road | Camera | |
-https://www.youtube.com/watch?v=ULGgIy3J1ig
-
-EarthCam Live: Times Square in 4K | Times Square | |
-https://www.youtube.com/watch?v=1-iS7LArMPA
-
-Times Square: 1560 Broadway View Live | Times Square | |
-https://www.youtube.com/watch?v=4qyZLflp-sI
-
-Dubuque County - Dome | Camera | |
-https://www.youtube.com/watch?v=O4_0VfXZCiY
-
-Dubuque County - Swiss Valley Nature Center | Camera | |
-https://www.youtube.com/watch?v=NNpfHCGM9OM
-
-LS FM | GMA Network | |
-https://www.youtube.com/watch?v=NdOD2fzf7PM
 
 ANN JapaNews24 | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
 https://www.youtube.com/watch?v=coYw-eVU0Ks
@@ -475,8 +61,8 @@ https://www.youtube.com/watch?v=coYw-eVU0Ks
 ANN News | Japanese | https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg |
 https://www.youtube.com/watch?v=mB-prl5HTV8
 
-Raj News Malayalam | Malayalam | https://i.imgur.com/3UqAbx0.jpg |
-https://www.youtube.com/@RajNewsMalayalamOnline/live
+CCTV直播 | 中文 | https://yt3.googleusercontent.com/16KzCc0oETi9xGUi7aHY0aziTajS21F4QNx-Nkk52e4MdH0OhGab96mXOWbLPdSqpHHHryq_L5I=s176-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/@CCTV/live
 
-Fightful TV Live | Wrestling | https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@Fightful/live
+上海电视台 | 中文 | https://yt3.googleusercontent.com/bB6pZL4eIppoxwItgC2CaVUqiLtXRLHZrXlbmzPltX-fRaLDVlXuhqKYp_6DPxSPjbhOzdiwlZU=s176-c-k-c0x00ffffff-no-rj | 
+https://www.youtube.com/@SMG-Official/streams
